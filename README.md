@@ -19,8 +19,8 @@
   -- .env file --> This will allow you to enter the root and password connected to mysql. This is needed in order for the database  
       to be connected to the server
   ## Contributions
-  ** If there are any suggestions to make changes to the application, you can send them by email. It is attached to the README.  
-    below.
+If there are any suggestions to make changes to the application, you can send them by email. It is attached to the README.  
+below.
   ## Testing
   There is no testing for this application.
   ## Licenses
