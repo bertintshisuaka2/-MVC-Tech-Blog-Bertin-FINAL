@@ -14,7 +14,7 @@ const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
 //setting up the server and port number
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3002;
 
 //connecting to the helper functions for the handlebars; formatting the date
 const hbs = exphbs.create({ helpers });
